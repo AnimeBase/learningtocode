@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+}
+
+.title-site {
+	font-weight: bold;
+	font-size: 50px;
+	text-align: center;
+	padding: 10px;
+	color: #fff;
+	background: #17b978;
+}
+
+.wrapper {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+    }
+
+.wrapper-text {
+	font-weight: bold;
+	margin: 0;
+	padding: 10px;
+}
+
+.wrapper-image {
+	margin-left: 20px;
+	padding: 10px;
+}
+
+.wrapper-image-slider {
+	padding: 10px
+}
+
+.btn {
+	background: #17b978;
+	text-align: center;
+	padding: 10px;
+	margin: 10px;
+	justify-content: center;
+	align-items: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
